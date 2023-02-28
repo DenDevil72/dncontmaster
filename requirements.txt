@@ -1,7 +1,10 @@
 #Github.com-Vasusen-code
 
-https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
+
+
+https://github.com/LonamiWebs/Telethon/archive/refs/tags/v1.27.0.zip
 ethon==69.2
 cryptg
 tgcrypto
-pyrogram==1.4.16
+pyrogram==2.0.100
+
